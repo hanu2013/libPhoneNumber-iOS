@@ -1659,7 +1659,7 @@
 				14B7A29D1DE9B65D0051AED7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		14B7A2D21DE9D7F70051AED7 /* Build configuration list for PBXNativeTarget "MetadataGenerator" */ = {
 			isa = XCConfigurationList;
@@ -1668,7 +1668,7 @@
 				14B7A2D41DE9D7F70051AED7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		1F31D5311DDD46B100257818 /* Build configuration list for PBXNativeTarget "libPhoneNumberwatchOS" */ = {
 			isa = XCConfigurationList;
@@ -1677,7 +1677,7 @@
 				1F31D5301DDD46B100257818 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		1F31D5521DDD47BA00257818 /* Build configuration list for PBXNativeTarget "libPhoneNumbertvOS" */ = {
 			isa = XCConfigurationList;
@@ -1686,7 +1686,7 @@
 				1F31D5541DDD47BA00257818 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		34ACBBA21B7122AC0064B3BD /* Build configuration list for PBXNativeTarget "libPhoneNumberiOS" */ = {
 			isa = XCConfigurationList;
@@ -1695,7 +1695,7 @@
 				34ACBB9F1B7122AC0064B3BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		7C7250831E0EBE7D00F916ED /* Build configuration list for PBXNativeTarget "libPhoneNumbermacOS" */ = {
 			isa = XCConfigurationList;
@@ -1704,7 +1704,7 @@
 				7C7250821E0EBE7D00F916ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		8B1FEF821EB7BE7C00FBDE87 /* Build configuration list for PBXNativeTarget "SwiftDemo" */ = {
 			isa = XCConfigurationList;
@@ -1713,7 +1713,7 @@
 				8B1FEF841EB7BE7C00FBDE87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		FD7A0616167715A0004BBEB6 /* Build configuration list for PBXProject "libPhoneNumber" */ = {
 			isa = XCConfigurationList;
@@ -1722,7 +1722,7 @@
 				FD7A064E167715A1004BBEB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
